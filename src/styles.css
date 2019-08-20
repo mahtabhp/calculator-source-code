@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+	background-color:rgb(235, 235, 235);
+}
+
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	margin: 0;
+	padding: 0;
+	font-family: monospace;
+	font-size: inherit;
+}
+
+.class-history-output {
+	color: green;
+	padding-left: 2ex;
+	margin-top: 0.7ex;
+}
+
+.class-history-output-error {
+	color: red;
+	padding-left: 2ex;
+	margin-top: 0.7ex;
+}
+
+.class-history-record {
+	margin-top: 0.7ex;
+	margin-bottom: 1.5ex;
+}
+
+.class-history-comment {
+	color: orchid;
+}
+
+.center {
+	position: fixed;
+	top: 30%;
+	left: 50%;
+	font-family: 'Courier New', Courier, monospace
+}
