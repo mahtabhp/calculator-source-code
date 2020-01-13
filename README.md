@@ -4,4 +4,4 @@ This project is a client based calculator that runs in all major browsers. It is
 
 It is hosted with github pages. Please browse to http://onemath.net to use it.
 
-Enjoy!
+Enjoy :)
